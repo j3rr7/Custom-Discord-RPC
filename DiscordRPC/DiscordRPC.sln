@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiscordRPC", "DiscordRPC.csproj", "{804A472C-F0BD-4808-9D93-78E797421F99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{804A472C-F0BD-4808-9D93-78E797421F99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{804A472C-F0BD-4808-9D93-78E797421F99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{804A472C-F0BD-4808-9D93-78E797421F99}.Debug|x64.ActiveCfg = Debug|x64
+		{804A472C-F0BD-4808-9D93-78E797421F99}.Debug|x64.Build.0 = Debug|x64
+		{804A472C-F0BD-4808-9D93-78E797421F99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{804A472C-F0BD-4808-9D93-78E797421F99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{804A472C-F0BD-4808-9D93-78E797421F99}.Release|x64.ActiveCfg = Release|x64
+		{804A472C-F0BD-4808-9D93-78E797421F99}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57E90D10-62F3-4FCA-88D9-EE9246D30576}
+	EndGlobalSection
+EndGlobal
